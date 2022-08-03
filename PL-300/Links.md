@@ -1,14 +1,12 @@
-■セットアップ手順  
-https://publicsharestor.blob.core.windows.net/pl300/Opening.pdf
+■[セットアップ手順](https://publicsharestor.blob.core.windows.net/pl300/Opening.pdf)
 
-■テキスト  
-https://docs.microsoft.com/ja-jp/learn/certifications/courses/pl-300t00
+■[公式テキスト](https://docs.microsoft.com/ja-jp/learn/certifications/courses/pl-300t00)
 
-■ラボ環境  
-https://aka.ms/lab-env
+## ラボ
 
-■ラボ手順書とファイル一式  
-https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp
+■[ラボ環境](https://aka.ms/lab-env)
+
+■[ラボ手順書とファイル一式](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp)
 
 * [01: Power BI Desktop でのデータの準備](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/01-prepare-data-with-power-query-in-power-bi-desktop.md)
 * [02: Power BI Desktop でデータを読み込む](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/02-load-data-with-power-query-in-power-bi-desktop.md)
@@ -20,3 +18,9 @@ https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp
 * [08: Power BI ダッシュボードを作成する](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/08-create-power-bi-dashboard.md)
 * [09: Power BI Desktop でデータ分析を実行する](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/09-perform-data-analysis-in-power-bi-desktop.md)
 * [10: 行レベルのセキュリティを適用する](https://github.com/sakkuru/PL-300-Microsoft-Power-BI-Data-Analyst.ja-jp/blob/main/Instructions/10-row-level-security.md)
+
+## 共有したリンク等
+
+* [Power BI ライセンスの違い（Free・Pro・Premium Per User・Premium Per Capacity・Embedded） | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_license/)
+
+* [Power BI サービスでのコンテンツ共有方法の種類 | Japan CSS Support Power BI Blog](https://jpbap-sqlbi.github.io/blog/powerbi/pbi_contents_share_1/)
