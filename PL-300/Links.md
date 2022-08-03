@@ -1,4 +1,4 @@
-■セットアップ手順
+■セットアップ手順  
 https://publicsharestor.blob.core.windows.net/pl300/Opening.pdf
 
 ■テキスト  
